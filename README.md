@@ -1,3 +1,5 @@
+<div style="display: inline_block" align="center">
+
 ### Olá mundo! Eu sou Marcos Baum 💻 👌👌
 <h2 dir="auto"></h2>
 
@@ -5,8 +7,7 @@
 ![Baum Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbaummb&langs_count=7&theme=dark)
 
 ### Principais tecnologias e bancos de dados utilizados no dia-a-dia <br/>
-
-<div style="display: inline_block">
+<h2 dir="auto"></h2>
     <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
